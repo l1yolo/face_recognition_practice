@@ -1,0 +1,9 @@
+*.pyc
+
+config.ini
+
+logs/
+
+venv/
+
+.idea/
